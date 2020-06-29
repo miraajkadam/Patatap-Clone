@@ -1,6 +1,6 @@
 # Patatap-Clone
 ## Introduction
-Patatap Clone using howler and paper libraries.
+patatap.com Clone using howler and paper libraries.
 
 Currently only circles. (a-z)
 
