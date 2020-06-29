@@ -5,10 +5,8 @@
 Currently only circles. (a-z)
 
 ### Libraries Used
-```
-howler.js
-paper.js
-```
+- **[howler.js](https://howlerjs.com/)**
+- **[paper.js](http://paperjs.org/)**
 ### Sounds Source
 - **[jonobr1/Neuronal-Synchrony/tree/master/assets/A](https://github.com/jonobr1/Neuronal-Synchrony/tree/master/assets/A)**
 ### Copyrights
